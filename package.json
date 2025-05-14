@@ -6,6 +6,16 @@
     "type": "git",
     "url": "git+https://github.com/worapolburaphan/typescript-entropy.git"
   },
+  "keywords": [
+    "typescript",
+    "types",
+    "utility-types",
+    "type-definitions",
+    "typescript-utilities",
+    "typescript-snippets",
+    "type-helpers",
+    "typescript-types"
+  ],
   "author": {
     "name": "worapolburaphan",
     "email": "worapol.pan.buraphan@gmail.com"
